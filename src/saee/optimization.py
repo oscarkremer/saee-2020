@@ -10,6 +10,10 @@ from scipy.optimize import differential_evolution
 
 
 class SpringMass:
+    '''
+    Classe sobre sistemas 
+    massa mola
+    '''
     def __init__(self, K, B, M):
         self.K = K
         self.B = B
