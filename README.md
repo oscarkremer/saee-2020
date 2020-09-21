@@ -1,4 +1,4 @@
-flexible-robot
+SAEE 2020 - Aprendizado de Máquina com Python
 ==============================
 
 Scripts abordados nos vídeos da semana acadêmica de engenharia elétrica IF-SUL SAEE 2020 no minicurso de Machine Learning com Python
